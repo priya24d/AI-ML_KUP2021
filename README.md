@@ -5,8 +5,8 @@ This Module consists of Tail Recursive and Functional concept assignments.
 
 <h3>1. Tail Recursive Assignment </h3>
 In this assignment consists of-
-1. Recursive function that prints value 5 to 50
-2. Finding Kth element of list
+1. Recursive function that prints value 5 to 50<br>
+2. Finding Kth element of list<br>
 3. ELiminating consecutive duplicates of list
 4. Extracting slice from list
 5. Reversing list
